@@ -32,5 +32,6 @@ def fizzbuzz_2():
         elif is_fizzbuzz(num):
             print(f"{num} FizBuzz")
 
+
 fizzbuzz()
 fizzbuzz_2()
